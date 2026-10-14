@@ -1,0 +1,18 @@
+=== Part 1 ===
+Energy using trapezoidal rule: 15.700 kWh
+Energy using Simpson's rule: 15.800 kWh
+Difference between estimates: 0.100 kWh
+
+=== Part 2a: hourly readings (spline-interpolated) ===
+Trapezoid: 15.735 kWh, Simpson: 15.746 kWh
+Reference (adaptive quad of the spline): 15.746 kWh
+
+=== Part 2b: accuracy test, integral of sin(x) on [0, pi] = 2 ===
+n= 3: trapezoid err=4.29e-01   Simpson err=9.44e-02
+n= 5: trapezoid err=1.04e-01   Simpson err=4.56e-03
+n= 9: trapezoid err=2.58e-02   Simpson err=2.69e-04
+n=17: trapezoid err=6.43e-03   Simpson err=1.66e-05
+n=33: trapezoid err=1.61e-03   Simpson err=1.03e-06
+
+=== Part 2c: 6:00 reading changed to 3.5 kW ===
+Trapezoid 19.100 kWh, Simpson 20.333 kWh

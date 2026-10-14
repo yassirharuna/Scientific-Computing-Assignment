@@ -1,0 +1,2 @@
+t=  24 h: true=2.048 m | spline=2.048 m | linear=2.048 m
+t=  54 h: true=2.674 m | spline=2.659 m | linear=2.508 m

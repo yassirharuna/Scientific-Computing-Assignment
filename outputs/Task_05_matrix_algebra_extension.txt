@@ -1,0 +1,5 @@
+theta1= 30, theta2= 45: elbow=[0.433 0.25 ], tip=[0.511 0.54 ], reach=0.743 m
+theta1= 60, theta2=-30: elbow=[0.25  0.433], tip=[0.51  0.583], reach=0.774 m
+theta1= 90, theta2= 90: elbow=[0.  0.5], tip=[-0.3  0.5], reach=0.583 m
+theta1=  0, theta2=  0: elbow=[0.5 0. ], tip=[0.8 0. ], reach=0.800 m
+Maximum possible reach: 0.8 m

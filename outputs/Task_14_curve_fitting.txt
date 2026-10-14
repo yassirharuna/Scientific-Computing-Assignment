@@ -1,0 +1,16 @@
+=== Part 1: quadratic ===
+Fitted model: y = 0.002167x^2 + -0.1345x + 85.00
+RMSE: 1.55 ms
+Predicted response at 400 users: 377.86 ms
+Parameter standard errors: [8.900000e-05 3.661600e-02 3.194649e+00]
+
+=== Part 2a: exponential model a*exp(bx)+c ===
+a=33.654, b=0.00596, c=34.72
+RMSE: 1.43 ms
+Predicted at 400 users: 400.36 ms
+
+=== Part 2b: straight line ===
+y = 0.7321x + 20.00, RMSE 18.83 ms, at 400: 312.86 ms
+
+=== Part 2c: one outlier (200 users -> 220 ms) ===
+Prediction at 400 users changes from 377.9 to 345.7 ms

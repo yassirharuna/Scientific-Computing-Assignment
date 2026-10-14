@@ -1,0 +1,4 @@
+Heater in the middle: peak temp 40.00 at segment 4; residual 1.0e-14
+Heater at left end: peak temp 8.89 at segment 1; residual 1.8e-15
+Even heating: peak temp 30.00 at segment 4; residual 1.0e-14
+Two heaters: peak temp 16.00 at segment 2; residual 3.6e-15

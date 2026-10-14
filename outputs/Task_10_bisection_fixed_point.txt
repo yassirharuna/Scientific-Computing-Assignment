@@ -1,0 +1,12 @@
+=== Part 1 ===
+Bisection equilibrium temperature: 27.525211 C  (38 iterations)
+Fixed-point equilibrium temperature: 27.525211 C  (13 iterations)
+
+=== Part 2: gain = 30 ===
+Bisection: 31.279175 C   Fixed point: 31.279175 C  (22 iterations)
+
+Bisection iterations needed for different tolerances (bracket [20,40]):
+  xtol=1e-02: 11 iterations, root=27.5292968750
+  xtol=1e-04: 18 iterations, root=27.5252532959
+  xtol=1e-08: 31 iterations, root=27.5252108183
+  xtol=1e-12: 45 iterations, root=27.5252108193

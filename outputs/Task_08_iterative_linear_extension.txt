@@ -1,0 +1,3 @@
+Converged after 504 sweeps, final change 9.88e-07
+Temperature at plate centre: 22.81 C
+Temperature one row below the hot edge, middle: 89.36 C

@@ -1,0 +1,14 @@
+=== Part 1 ===
+Linear estimate at 10:30: 23.25 C
+Cubic estimate at 10:30: 23.36 C
+Largest gap between the two methods: 0.191 C
+
+=== Part 2a: leave out the 12:00 reading and estimate it ===
+True value 25.0 C | linear 24.75 C (err 0.25) | cubic 25.03 C (err 0.03)
+
+=== Part 2b: spike of 30 C at 11:00 ===
+Cubic spline at 10:30: 27.01 C, at 12:30: 24.38 C
+Linear at 12:30: 25.25 C
+Spline minimum between 12 and 13: 24.29 C (undershoot below both neighbours 25.0 and 25.5?)
+
+Extrapolating to 15:00 with the cubic spline: 22.94 C

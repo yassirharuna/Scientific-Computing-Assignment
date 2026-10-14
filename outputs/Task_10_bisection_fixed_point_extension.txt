@@ -1,0 +1,2 @@
+Break-even quantity: 1596.18 loaves/month (33 iterations)
+Break-even at price 55: 1892.02 loaves/month

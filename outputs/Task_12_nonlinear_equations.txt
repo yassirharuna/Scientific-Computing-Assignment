@@ -1,0 +1,21 @@
+=== Part 1: circle radius 2, parabola y = x^2 - 1 ===
+Initial guess: [1.0, 1.0]
+Intersection: [1.51748991 1.30277564]
+Residuals: [np.float64(-2.4780177909633494e-13), np.float64(-2.4158453015843406e-13)]
+Converged: True
+
+Initial guess: [-1.0, 1.0]
+Intersection: [-1.51748991  1.30277564]
+Residuals: [np.float64(-2.4780177909633494e-13), np.float64(-2.4158453015843406e-13)]
+Converged: True
+
+Roots of y^2 + y - 3 = 0 (from substitution): [-2.30277564  1.30277564]
+
+=== Part 2: circle radius 1, parabola y = x^2 - 1 ===
+guess [0.5, 0.5]: x=[1. 0.], converged=True, residual norm=4.5e-13
+guess [-0.5, 0.5]: x=[-1.  0.], converged=True, residual norm=4.5e-13
+guess [0.0, -1.0]: x=[ 0. -1.], converged=True, residual norm=0.0e+00
+guess [3.0, 3.0]: x=[ 1. -0.], converged=True, residual norm=2.9e-14
+
+=== Part 2b: circle radius 2, parabola y = x^2 - 5 (no real intersection?) ===
+Converged: False | message: The iteration is not making good progress, as measured by th

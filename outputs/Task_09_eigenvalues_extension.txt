@@ -1,0 +1,4 @@
+Eigenvalues: [920.38  34.02   3.21]
+Explained variance ratio: [0.9611 0.0355 0.0033]
+First principal component (loadings): {'Maths': 0.603, 'Physics': 0.585, 'Programming': 0.542}
+PC1 scores (overall ability): [ 23.5  -8.2  36.9 -32.1   4.6 -19.2  36.2 -41.7]

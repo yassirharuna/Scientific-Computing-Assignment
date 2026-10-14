@@ -1,0 +1,13 @@
+=== Part 1 ===
+Type A servers: 3
+Type B servers: 4
+Verification A @ solution: [20. 72.]
+Residual: [0. 0.]
+Residual norm: 0.0
+
+=== Part 2: memory total changed to 80 GB ===
+Solution: [2.5 5. ]
+Condition number original A: 6.981769841647476
+Condition number near-singular A: 250002.00001660935
+Solution near-singular, b=[20,40]: [ 5. -0.]
+Solution near-singular, b=[20,40.01]: [-45. 100.]

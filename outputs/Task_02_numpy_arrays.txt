@@ -1,0 +1,11 @@
+=== Part 1: original data ===
+Daily mean temperature: 23.12 C
+Minimum temperature: 17.50 C
+Maximum temperature: 29.40 C
+First six Fahrenheit readings: [65.3  64.4  64.04 63.5  64.22 66.2 ]
+
+=== Part 2: every reading lowered by 5 C ===
+Mean: 18.12 C  (change -5.00)
+Min: 12.50 C   Max: 24.40 C
+Range (max-min): original 11.90 C, cooler 11.90 C
+Mean in Fahrenheit: original 73.62 F, cooler 64.62 F

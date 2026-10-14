@@ -1,0 +1,5 @@
+Secant : monthly rate = 1.250228%  (6 iterations)
+Newton : monthly rate = 1.250228%  (4 iterations)
+Annual nominal rate (x12): 15.0027%
+Effective annual rate: 16.0786%
+Total repaid: 187,200 KES, i.e. 37,200 KES of interest

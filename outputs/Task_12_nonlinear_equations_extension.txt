@@ -1,0 +1,5 @@
+Converged: True
+Time of flight: 2.337 s, landing x = 30.05 m, y = 9.01 m
+Residuals: [ 0. -0. -0.]
+Analytical flight time: 2.337 s
+Steeper hill (0.6): t = 1.551 s, x = 19.94 m, y = 11.96 m

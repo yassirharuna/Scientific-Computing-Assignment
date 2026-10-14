@@ -1,0 +1,6 @@
+Number of samples: 220500
+RMS original: 0.2835
+RMS after gain: 0.8505
+RMS after clipping: 0.7823
+Share of samples clipped: 36.82%
+Loop: 0.0924s, vectorized: 0.001131s, speed-up 82x

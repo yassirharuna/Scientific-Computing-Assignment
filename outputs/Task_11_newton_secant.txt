@@ -1,0 +1,18 @@
+=== Part 1 ===
+IRR using Newton-Raphson: 11.542461%  (4 iterations)
+IRR using Secant method: 11.542461%  (7 iterations)
+NPV at Newton solution: 0.000000
+
+=== Part 2a: different starting guesses (Newton) ===
+x0=0.01: IRR=11.542461%, iterations=5
+x0=0.1: IRR=11.542461%, iterations=4
+x0=0.5: IRR=11.542461%, iterations=8
+x0=1.0: IRR=-154.411050%, iterations=7
+
+=== Part 2b: smaller inflows [-10000, 2000, 2500, 3000, 2000] ===
+IRR = -2.0012%
+
+Error after each step:
+Newton : ['1.5e-02', '4.0e-04', '2.8e-07', '1.3e-13', '5.6e-17', '1.4e-16', '1.4e-17', '6.9e-17', '1.5e-16']
+Secant : ['6.5e-02', '8.5e-02', '9.5e-03', '1.4e-03', '2.2e-05', '5.3e-08', '2.0e-12', '1.2e-16', '2.8e-17', '2.8e-17']
+Bisect : ['3.8e-01', '1.3e-01', '9.6e-03', '5.3e-02', '2.2e-02', '6.0e-03', '1.8e-03', '2.1e-03', '1.9e-04']

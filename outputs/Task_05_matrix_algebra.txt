@@ -1,0 +1,24 @@
+=== Part 1: 45 deg, scale (2.0, 1.5) ===
+Original points:
+ [[0. 0.]
+ [1. 0.]
+ [1. 1.]
+ [0. 1.]]
+Transformation matrix:
+ [[ 1.41421356 -1.06066017]
+ [ 1.41421356  1.06066017]]
+Transformed points:
+ [[ 0.          0.        ]
+ [ 1.41421356  1.41421356]
+ [ 0.35355339  2.47487373]
+ [-1.06066017  1.06066017]]
+Determinant: 2.9999999999999996
+
+=== Part 2: 90 deg, scale (1.0, 3.0) ===
+Transformed points:
+ [[ 0.  0.]
+ [ 0.  1.]
+ [-3.  1.]
+ [-3.  0.]]
+Determinant: 3.0000000000000004
+Determinant of reflection about x-axis: -1.0

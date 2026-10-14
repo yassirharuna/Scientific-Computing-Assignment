@@ -1,0 +1,6 @@
+Mean per bed (%): [34.5  37.83 31.   41.   20.   33.  ]
+Lowest reading per bed (%): [29. 33. 26. 37.  4. 28.]
+Mean across beds at each time (%): [39.17 36.33 32.33 27.83 29.67 32.  ]
+Beds that dipped below 30 %: [1 3 5 6]
+Daily spread per bed (%): [ 9.  8.  9.  7. 36.  9.]
+Possible faulty sensor (spread > 20): [5]

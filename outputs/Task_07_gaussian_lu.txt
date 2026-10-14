@@ -1,0 +1,27 @@
+Measurement set 1
+Solution: [5. 5. 5.]
+Residual norm: 0.0
+
+Measurement set 2
+Solution: [5.31707317 5.26829268 4.75609756]
+Residual norm: 1.7763568394002505e-15
+
+Measurement set 3
+Solution: [4.90243902 5.6097561  5.53658537]
+Residual norm: 0.0
+
+Direct solution for first set: [5. 5. 5.]
+
+L =
+ [[ 1.      0.      0.    ]
+ [-0.25    1.      0.    ]
+ [ 0.     -0.2667  1.    ]]
+U =
+ [[ 4.     -1.      0.    ]
+ [ 0.      3.75   -1.    ]
+ [ 0.      0.      2.7333]]
+L @ U equals P^T A ? True
+
+Changed A[2,2] from 3 to 1; solution for set 1: [ 5.90909091  8.63636364 18.63636364]
+
+200 right-hand sides, n=600: solve each time=1.087s, factor once=0.040s, speed-up=27.1x

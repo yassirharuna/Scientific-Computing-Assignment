@@ -1,0 +1,11 @@
+=== Part 1: 1,000,000 values ===
+First five squared latency values: [0.03787665 0.01266192 0.04637842 0.03092504 0.00078812]
+Loop time: 0.1660 s
+Vectorized time: 0.0029 s
+Approximate speed-up: 57.7x
+
+=== Part 2: changing the number of measurements ===
+n=    1,000: loop=0.000147s  vectorized=0.00000238s  speed-up=61.7x
+n=   10,000: loop=0.001449s  vectorized=0.00001220s  speed-up=118.8x
+n=  100,000: loop=0.015631s  vectorized=0.00011647s  speed-up=134.2x
+n=1,000,000: loop=0.165544s  vectorized=0.00155075s  speed-up=106.8x

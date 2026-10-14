@@ -1,0 +1,13 @@
+Expected total      : 1000.0
+Naive float loop    : 1000.0000000001588
+Error of naive loop : 1.588e-10
+math.fsum           : 1000.0
+np.sum              : np.float64(999.9999999999999)
+Decimal             : 1000.00
+Naive total == 1000 ? False
+np.isclose(naive, 1000) ? True
+
+Compound interest after 30 years
+float64: 38,061,275.21
+float32: 38,061,336.00
+Difference: 60.79

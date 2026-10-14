@@ -1,0 +1,23 @@
+t= 0.0s v=0.0 m/s a=+0.60 m/s^2
+t= 0.5s v=0.3 m/s a=+0.90 m/s^2
+t= 1.0s v=0.9 m/s a=+1.30 m/s^2  <-- above comfort limit
+t= 1.5s v=1.6 m/s a=+1.40 m/s^2  <-- above comfort limit
+t= 2.0s v=2.3 m/s a=+1.20 m/s^2  <-- above comfort limit
+t= 2.5s v=2.8 m/s a=+0.70 m/s^2
+t= 3.0s v=3.0 m/s a=+0.20 m/s^2
+t= 3.5s v=3.0 m/s a=+0.00 m/s^2
+t= 4.0s v=3.0 m/s a=+0.00 m/s^2
+t= 4.5s v=3.0 m/s a=+0.00 m/s^2
+t= 5.0s v=3.0 m/s a=+0.00 m/s^2
+t= 5.5s v=3.0 m/s a=+0.00 m/s^2
+t= 6.0s v=3.0 m/s a=+0.00 m/s^2
+t= 6.5s v=3.0 m/s a=-0.10 m/s^2
+t= 7.0s v=2.9 m/s a=-0.50 m/s^2
+t= 7.5s v=2.5 m/s a=-1.00 m/s^2
+t= 8.0s v=1.9 m/s a=-1.30 m/s^2  <-- above comfort limit
+t= 8.5s v=1.2 m/s a=-1.40 m/s^2  <-- above comfort limit
+t= 9.0s v=0.5 m/s a=-1.10 m/s^2  <-- above comfort limit
+t= 9.5s v=0.1 m/s a=-0.50 m/s^2
+t=10.0s v=0.0 m/s a=-0.20 m/s^2
+Peak acceleration: 1.4 m/s^2; peak deceleration: -1.4 m/s^2
+Distance travelled (trapezoid): 20.50 m

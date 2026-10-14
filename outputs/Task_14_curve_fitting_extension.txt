@@ -1,0 +1,4 @@
+K = 294.4 thousand, r = 0.568 per month, midpoint t0 = 6.70 months
+RMSE = 0.70 thousand, R^2 = 1.0000
+Forecast for month 18: 293.9 thousand
+A straight line would forecast month 18 as 467.0 thousand (above the market limit K)
