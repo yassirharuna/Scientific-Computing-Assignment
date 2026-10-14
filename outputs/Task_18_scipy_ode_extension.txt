@@ -1,0 +1,5 @@
+Success: True
+Prey range: 0.75 - 4.18 (hundreds)
+Predator range: 0.88 - 3.82 (hundreds)
+Equilibrium point: prey = 2.00, predators = 2.00
+Drift in conserved quantity: 3.12e-09

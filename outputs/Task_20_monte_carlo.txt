@@ -1,0 +1,19 @@
+=== Part 1 ===
+Estimated overload probability: 10.6160%
+Number of overload cases: 10616 out of 100000
+Exact probability from the normal distribution: 10.5650%
+
+=== Part 2a: different numbers of simulations ===
+N=      100: estimate=2.0000%  error=8.5650%
+N=    1,000: estimate=10.1000%  error=0.4650%
+N=   10,000: estimate=10.4900%  error=0.0750%
+N=  100,000: estimate=10.6160%  error=0.0510%
+N=1,000,000: estimate=10.5702%  error=0.0052%
+
+=== Part 2b: capacity 1100 and mean demand 900 ===
+capacity=1100, mean=850: simulated 1.912%, exact 1.861%
+capacity=1000, mean=900: simulated 20.221%, exact 20.233%
+capacity=1000, mean=850: simulated 10.616%, exact 10.565%
+
+=== Part 2c: spread of the estimate over 200 different seeds (N=10,000) ===
+mean=10.5400%, std=0.3119%, theoretical std=0.3074%

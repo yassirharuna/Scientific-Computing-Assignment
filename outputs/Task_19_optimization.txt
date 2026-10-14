@@ -1,0 +1,21 @@
+=== Part 1 ===
+Optimization success: True
+Type A allocation: 0.000
+Type B allocation: 5.882
+Total capacity: 1000.00
+Minimum planning cost: 105.88
+Best nearby integer solution (cost, A, B, capacity): (108.0, 0, 6, 1020.0)
+Cost per unit capacity: A = 0.1200, B = 0.1059
+
+=== Part 2a: required capacity raised to 1500 ===
+Continuous: A=0.000, B=8.824, cost=158.82
+Integer (cost, A, B, capacity): (162.0, 0, 9, 1530.0)
+
+=== Part 2b: Type B becomes more expensive (cost 30) ===
+Continuous: A=10.000, B=0.000, cost=120.00
+Integer (cost, A, B, capacity): (120.0, 10, 0, 1000.0)
+
+=== Part 2c: different starting guesses ===
+x0=[0, 0]: A=0.000, B=5.882, cost=105.88, success=True
+x0=[20, 20]: A=0.000, B=5.882, cost=105.88, success=True
+x0=[1, 10]: A=0.000, B=5.882, cost=105.88, success=True

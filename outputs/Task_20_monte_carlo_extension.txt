@@ -1,0 +1,7 @@
+Mean duration: 28.99 days, 90th percentile: 34.09 days
+P(project > 30 days) = 38.295%
+P(project > 25 days) = 85.023%
+Average service time 6 min -> average wait 8.9 min
+Average service time 8 min -> average wait 31.0 min
+Average service time 9 min -> average wait 76.9 min
+Average service time 9.5 min -> average wait 155.2 min

@@ -1,0 +1,6 @@
+Volume (trapezoid): 5715 litres
+Volume (Simpson):   5770 litres
+Average flow: 31.8 L/min
+Tank (5,000 L) fills at about minute 150
+Cumulative volume (L): [   0.  165.  592. 1155. 1770. 2392. 2985. 3540. 4072. 4582. 5055. 5460.
+ 5715.]

@@ -1,0 +1,16 @@
+=== Part 1: R=1000, C=0.001 (tau = 1 s) ===
+Solver success: True
+Capacitor voltage at 5 s: 4.9663 V
+Maximum error against exact solution: 9.282e-10 V
+
+=== Part 2a: different capacitances (time constant tau = R*C) ===
+C=0.0005 F: tau=0.5000 s, V(5s)=4.9998 V, reaches 63.2 % of 5 V at t=0.503 s
+C=0.001 F: tau=1.0000 s, V(5s)=4.9663 V, reaches 63.2 % of 5 V at t=1.005 s
+C=0.002 F: tau=2.0000 s, V(5s)=4.5896 V, reaches 63.2 % of 5 V at t=2.010 s
+
+=== Part 2b: discharging (V0 = 5, Vs = 0) ===
+V at t=1.005 s = 1.830 V (exact value there: 1.830 V, about 5*exp(-1) = 1.839 V)
+
+=== Part 2c: looser tolerance ===
+rtol=1e-3: max error 6.64e-04 V, function evaluations 56
+rtol=1e-9: function evaluations 386

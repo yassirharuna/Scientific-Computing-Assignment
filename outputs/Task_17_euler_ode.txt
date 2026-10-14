@@ -1,0 +1,17 @@
+=== Part 1: h = 1 min ===
+Euler temperature after 30 min: 26.40 C
+Exact temperature after 30 min: 26.78 C
+Final absolute error: 0.3720 C
+
+=== Part 2a: different step sizes ===
+h=5.0 : Euler=25.2662 C  error=1.5098 C
+h=2.0 : Euler=26.0595 C  error=0.7165 C
+h=1.0 : Euler=26.4041 C  error=0.3720 C
+h=0.5 : Euler=26.5870 C  error=0.1890 C
+h=0.1 : Euler=26.7378 C  error=0.0383 C
+
+=== Part 2b: faster cooling constant k = 0.3, h=1 vs 5 ===
+h=1.0: final Euler=25.001, exact=25.008, min value reached=25.00
+h=5.0: final Euler=26.016, exact=25.008, min value reached=-7.50
+h=7.0: final Euler=-79.683, exact=25.002, min value reached=-79.68
+(with k*h > 2 Euler becomes unstable - k*h = 2.1 for h=7)

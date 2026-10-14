@@ -1,0 +1,3 @@
+beta=0.4: R0=4.0, peak infected=414 on day 28, total ever infected=982
+beta=0.2: R0=2.0, peak infected=156 on day 69, total ever infected=768
+beta=0.12: R0=1.2, peak infected=8 on day 120, total ever infected=44

@@ -1,0 +1,8 @@
+Success: True
+Maize bran: 74.29 kg, soya meal: 25.71 kg
+Minimum cost: 5,414.29 KES per 100 kg
+Protein supplied: 18.00 kg, energy: 289.7 Mcal
+
+Soya at 130 KES: maize 74.29 kg, soya 25.71 kg, cost 6,314.29 KES
+Protein target 20 kg: maize 68.57 kg, soya 31.43 kg, cost 5,728.57 KES
+Energy target 290 Mcal feasible? False - The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)
